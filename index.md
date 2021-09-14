@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Loot (for LifeRestart)
+是一款完美结合[Loot Project](https://opensea.io/collection/lootproject)和 [人生重开模拟器](http://liferestart.syaro.io/view/)的一套**Play2Earn**的游戏。
 
-You can use the [editor on GitHub](https://github.com/LifeRestartNFT/LifeRestartNFT.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 项目地址
+**官网** https://liferestartnft.github.io/
 
-### Markdown
+**OpenSea NFT商店** https://opensea.io/collection/loot-for-liferestart
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 项目计划
 
-# Header 1
-## Header 2
-### Header 3
+- [x] 2021 九月上线 NFT
+- [ ] 2021 十一月空投 Play2Earn 所用/赚的币
+- [ ] 2021 十二月上线 Play2Earn 游戏
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 社交网络，联系方式
 
-**Bold** and _Italic_ and `Code` text
+**Twitter** https://twitter.com/LifeRstartNFT
+**email** LifeRestartNFT[at]gmail.com
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LifeRestartNFT/LifeRestartNFT.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 其他内容
+敬请期待
