@@ -17,9 +17,11 @@
 
 ## 社交网络，联系方式
 
-**Twitter** [https://twitter.com/LifeRstartNFT](https://twitter.com/LifeRstartNFT)
+**Twitter** [https://twitter.com/LootLifeRestart](https://twitter.com/LootLifeRestart)
 
-**email** LifeRestartNFT[at]gmail.com
+**Email** LifeRestartNFT[at]gmail.com
+
+**Telegram**
 
 ## 其他内容
 敬请期待
