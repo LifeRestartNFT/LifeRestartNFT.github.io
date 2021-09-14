@@ -3,9 +3,9 @@
 
 
 ## 项目地址
-**官网** https://liferestartnft.github.io/
+**官网** [https://liferestartnft.github.io/](https://liferestartnft.github.io/)
 
-**OpenSea NFT商店** https://opensea.io/collection/loot-for-liferestart
+**OpenSea NFT商店** [https://opensea.io/collection/loot-for-liferestart](https://opensea.io/collection/loot-for-liferestart)
 
 
 ## 项目计划
@@ -17,7 +17,8 @@
 
 ## 社交网络，联系方式
 
-**Twitter** https://twitter.com/LifeRstartNFT
+**Twitter** [https://twitter.com/LifeRstartNFT](https://twitter.com/LifeRstartNFT)
+
 **email** LifeRestartNFT[at]gmail.com
 
 ## 其他内容
