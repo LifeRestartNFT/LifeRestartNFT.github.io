@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="https://raw.githubusercontent.com/LifeRestartNFT/LifeRestartNFT/main/profile.png">
+<link rel="shortcut icon" type="image/png" href="https://raw.githubusercontent.com/LifeRestartNFT/LifeRestartNFT/main/profile.png?">
 
 
 # Loot (for LifeRestart)
