@@ -1,6 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="llr.png?">
-
-
 # Loot (for LifeRestart)
 是一款完美结合[Loot Project](https://opensea.io/collection/lootproject)和 [人生重开模拟器](http://liferestart.syaro.io/view/)的一套**Play2Earn**的游戏。
 
