@@ -1,6 +1,17 @@
 # Loot (for LifeRestart)
 是一款完美结合[Loot Project](https://opensea.io/collection/lootproject)和 [人生重开模拟器](http://liferestart.syaro.io/view/)的一套**Play2Earn**的游戏。
 
+初始铸造新生卡牌(AGE=0)如下。今后将不再铸造新生卡牌，由Play2Earn的形式，少量机会触发事件进行铸造。
+
+
+| 类别  |总数 | 编号 |
+| --- | ----- | ----|
+| N  | 10000  | [0, 9999]
+| R  | 1000  | [10000, 10999]
+| SR | 100  | [11000, 11099]
+| SSR| 10 |  [11100, 11109]
+|SSSR| 1 | 11110|
+
 
 ## 项目地址
 **官网** [https://liferestartnft.github.io/](https://liferestartnft.github.io/)
@@ -13,8 +24,19 @@
 ## 项目计划
 
 - [x] 2021 九月上线 NFT
-- [ ] 2021 十一月空投 Play2Earn 所用/赚的币
+- [ ] 2021 十一月空投 Play2Earn 所用/赚的token
 - [ ] 2021 十二月上线 Play2Earn 游戏
+
+## Play2Earn
+
+* 游戏计划为*人生重开模拟器*的进化版本。拥有NFT的玩家将链接钱包，选择自己所拥有的Bag经行游玩。
+* 游玩过程中，将有少量**触发铸造**的机会，将初始铸造基于新生卡牌(AGE=0)的全新卡片。触发的条件将会使得全新铸造的卡片有更高属性。
+* 游戏完成会给予奖励token。（[token相关的经济机制](#经济机制)）
+
+## 经济机制
+
+* 初始token将以空投的形式投放至玩家手中
+* 
 
 
 ## 社交网络，联系方式
