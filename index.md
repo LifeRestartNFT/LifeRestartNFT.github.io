@@ -8,7 +8,7 @@
 ## 项目地址
 **官网** [https://liferestartnft.github.io/](https://liferestartnft.github.io/)
 
-**OpenSea NFT商店** [https://opensea.io/collection/loot-for-liferestart](https://opensea.io/collection/loot-for-liferestart)
+**OpenSea NFT商店** [https://opensea.io/collection/liferestart](https://opensea.io/collection/liferestart)
 
 
 ## 项目计划
