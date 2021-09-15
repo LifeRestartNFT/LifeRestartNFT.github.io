@@ -24,7 +24,7 @@
 
 **Email** LifeRestartNFT[at]gmail.com
 
-**Telegram**
+**Telegram** [https://t.me/LifeRestartNFT](https://t.me/LifeRestartNFT)
 
 ## 其他内容
 敬请期待
