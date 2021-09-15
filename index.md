@@ -10,6 +10,8 @@
 
 **OpenSea NFT商店** [https://opensea.io/collection/liferestart](https://opensea.io/collection/liferestart)
 
+**合约地址** [https://polygonscan.com/token/0x62d9fb7aa6DD88Fa8c1Be34442348B8e7Ae5EB30](https://polygonscan.com/token/0x62d9fb7aa6DD88Fa8c1Be34442348B8e7Ae5EB30)
+
 
 ## 项目计划
 
