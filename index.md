@@ -1,6 +1,8 @@
 # Loot (for LifeRestart)
 是一款完美结合[Loot Project](https://opensea.io/collection/lootproject)和 [人生重开模拟器](http://liferestart.syaro.io/view/)的一套**Play2Earn**的游戏。
 
+其中[Loot (for LifeRestart)](https://opensea.io/collection/liferestart) 是一个类Loot的人生重开卡牌。在OpenSea平台铸造发售。
+
 初始铸造新生卡牌(AGE=0)如下。今后将 <span style="color:red">**不再**</span> 铸造新生卡牌，由Play2Earn的形式，少量机会触发事件进行铸造。
 
 
