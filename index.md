@@ -1,4 +1,4 @@
-# Loot (for LifeRestart)
+# Loot 人生重开
 
 ![background](bg.png)
 
