@@ -25,6 +25,7 @@ All the minted newborn cards (AGE=0) are listed below。We will <span style="col
 **EN Offical Website** [https://liferestartnft.github.io/en](https://liferestartnft.github.io/en)
 
 The English collection will be launched soon.
+
 **OpenSea collection** [https://opensea.io/collection/liferestart-en](https://opensea.io/collection/liferestart-en)
 
 **Contract** [https://polygonscan.com/token/0x62d9fb7aa6DD88Fa8c1Be34442348B8e7Ae5EB30](https://polygonscan.com/token/0x62d9fb7aa6DD88Fa8c1Be34442348B8e7Ae5EB30)
@@ -56,7 +57,7 @@ This is only a perliminary plan. We will adjust accordingly for a better user ex
 
 **Email** LifeRestartNFT[at]gmail.com
 
-**Telegram** [https://t.me/LifeRestartNFT](https://t.me/LifeRestartNFT)
+**Telegram** [https://t.me/liferestarten](https://t.me/liferestarten)
 
 ## More
 Coming soon.
