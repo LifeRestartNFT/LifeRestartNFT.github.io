@@ -1,6 +1,6 @@
 # Loot 人生重开
 
-## [English Website](https://liferestartnft.github.io/)
+## [English Website](https://liferestartnft.github.io/en)
 
 <h2><span style="color:red">项目进展21.9.16: <b>11111</b>个新生卡已经铸造完成！开启售卖</span></h2>
 
