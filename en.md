@@ -5,11 +5,11 @@
 ![background](bg.png)
 
 
-This ia a combination of [Loot Project](https://opensea.io/collection/lootproject) and a popular Chinese game named [Life Restart Simulator](http://liferestart.syaro.io/view/). Moreover, the Loot-based NFT will be enriched with GameFi and P2E mechanism in our development.
+This is a combination of [Loot Project](https://opensea.io/collection/lootproject) and a popular Chinese game named [Life Restart Simulator](http://liferestart.syaro.io/view/). Moreover, the Loot-based NFT will be enriched with GameFi and P2E mechanism in our development.
 
 Our NFTs [Loot (for LifeRestart)](https://opensea.io/collection/liferestart) are the Bag of properties and perks of a "new life" in the game, sold on OpenSea platform.
 
-All the minted newborn cards (AGE=0) are listed below。We will <span style="color:red">**not**</span> mint any more newborn card minted, except that there will be a small number of rare event that allows users to mint new cards.
+All the minted newborn cards (AGE=0) are listed below. We will <span style="color:red">**not**</span> mint any more newborn card minted, except that there will be a small number of rare event that allows users to mint new cards.
 
 
 | Type  | Total| Index |
